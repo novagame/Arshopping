@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: 
+    guid: 605ca1083553f4488a4736aeada43e81
+  - enabled: 1
+    path: Assets/Scenes/Furnitures/Furnitures.unity
+    guid: c0843a9a6a4ab47c79a4a0beeb84b6fb
+  - enabled: 1
+    path: Assets/Scenes/Furnitures/Chair.unity
+    guid: 3841e9796d5b74c80a4c2729163b9d6d
+  - enabled: 1
+    path: Assets/Scenes/Furnitures/Sofa.unity
+    guid: a4cd3aded7cb3492d8e4868a370c185d
+  - enabled: 1
+    path: Assets/Scenes/Furnitures/Table.unity
+    guid: 8b326b5853f304e3899c31deb2021143
+  - enabled: 1
+    path: Assets/Scenes/Furnitures/ChairDetail.unity
+    guid: 278d4f373630b40c8b94ae917c895847
+  - enabled: 1
+    path: Assets/Scenes/Furnitures/TableDetail.unity
+    guid: e5c8eff2f55174504b1e797c770f0c72
+  - enabled: 1
+    path: Assets/Scenes/Furnitures/SofaDetail.unity
+    guid: bde84b3c991fd4b769eb6e973bbb61e9
+  - enabled: 1
+    path: Assets/Scenes/Furnitures/Cart.unity
+    guid: ca9ac7a14a41341e59b5ce9040f6c894
+  - enabled: 1
+    path: Assets/Scenes/Furnitures/OrdersPage.unity
+    guid: d3dfda1bf1b9d44b2a62f5511646f1c8
+  m_configObjects: {}
